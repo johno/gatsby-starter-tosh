@@ -5453,11 +5453,6 @@ gatsby-plugin-sharp@^2.2.8:
     sharp "^0.22.1"
     svgo "^1.2.0"
 
-gatsby-plugin-theme-ui@0.2.26:
-  version "0.2.26"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.26.tgz#1cec917c314d2179114ce9a766f2f9322fc11f66"
-  integrity sha512-fxjf9FPsG/6zsMpEbWMRRouNgYH7OzXTrn/KfhzroOKHQuH46OO6SM4Eh3AyMWIq3SBajYv9HYMphTHg3D6N8g==
-
 gatsby-plugin-theme-ui@^0.2.6:
   version "0.2.29"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.29.tgz#667b9cee8fd500e856ff7082cd8da4cdbd30c153"
@@ -5613,12 +5608,11 @@ gatsby-theme-blog@^1.0.2:
     typeface-montserrat "0.0.75"
     typography-theme-wordpress-2016 "^0.16.19"
 
-gatsby-theme-tosh@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-tosh/-/gatsby-theme-tosh-0.0.2.tgz#33da84df987b26da0fe87cbcdb0d2face037bd89"
-  integrity sha512-Dc4mbiB4r1XG+SD2+7nQWtcyqD2VtlHFIgWuLUUvulrosgnBIer+kK5s5M/SLKfCQ5V8f6ETQGHqTpUI+RPByQ==
+gatsby-theme-tosh@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-tosh/-/gatsby-theme-tosh-0.0.3.tgz#dccae4c97283c859080d6da147572705580c4075"
+  integrity sha512-ji2XvH1fnhu5yift9vNqks8oZJzoOynXQznxCURfFtr3Z01STpFsThlhi0gtS8zdOWDemX4onQcvjVYM6f1Y4g==
   dependencies:
-    gatsby-plugin-theme-ui "0.2.26"
     gatsby-theme-blog "^1.0.2"
 
 gatsby-transformer-sharp@^2.2.4:
